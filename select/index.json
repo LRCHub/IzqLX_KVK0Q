@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Winter, again",
+  "base_artist": "GLAY",
+  "createdAt": "2026-01-11T07:53:51.100206Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Winter Again",
+      "artist": "김아름",
+      "has_synced": true,
+      "path": "select/01_Winter_Again_김아름.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Winter Again",
+      "artist": "Kim Areum",
+      "has_synced": true,
+      "path": "select/02_Winter_Again_Kim_Areum.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Winter,again - From THE FIRST TAKE",
+      "artist": "GLAY",
+      "has_synced": true,
+      "path": "select/03_Winter,again_-_From_THE_FIRST_TAKE_GLAY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Winter，again",
+      "artist": "GLAY",
+      "has_synced": true,
+      "path": "select/04_Winter,again_GLAY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Winter,again",
+      "artist": "GLAY",
+      "has_synced": true,
+      "path": "select/05_Winter,again_GLAY.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Winter, Again",
+      "artist": "Hwang Chi Yeul",
+      "has_synced": true,
+      "path": "select/06_Winter,_Again_Hwang_Chi_Yeul.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Winter Again.",
+      "artist": "CNBLUE",
+      "has_synced": true,
+      "path": "select/07_Winter_Again._CNBLUE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "winter again",
+      "artist": "4s4ki",
+      "has_synced": true,
+      "path": "select/08_winter_again_4s4ki.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "sad girl winter (again)",
+      "artist": "Victoria",
+      "has_synced": true,
+      "path": "select/09_sad_girl_winter_(again)_Victoria.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Winter, again",
+      "artist": "GLAY",
+      "has_synced": true,
+      "path": "select/10_Winter,_again_GLAY.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Winter, again",
+      "artist": "GLAY",
+      "has_synced": true,
+      "path": "select/11_Winter,_again_GLAY.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Winter, again",
+      "artist": "GLAY",
+      "has_synced": true,
+      "path": "select/12_Winter,_again_GLAY.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "sad girl winter (again)",
+      "artist": "Victoria",
+      "has_synced": true,
+      "path": "select/13_sad_girl_winter_(again)_Victoria.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Winter Again",
+      "artist": "Ryan Wilcox & The Sunday Shakes",
+      "has_synced": true,
+      "path": "select/14_Winter_Again_Ryan_Wilcox_&_The_Sunday_Shakes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Winter, again",
+      "artist": "GLAY",
+      "has_synced": false,
+      "path": "select/pl_01_Winter,_again_GLAY.txt"
+    }
+  ]
+}
